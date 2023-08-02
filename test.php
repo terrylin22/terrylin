@@ -34,6 +34,7 @@
 // echo "[Map]" . PHP_EOL;
 // echo $map['a'] . PHP_EOL;
 // echo $map['b'] . PHP_EOL;
+echo "111";
 echo "[Foreach 1]" . PHP_EOL;
 echo "2222";
 $array = [1, 2, 3, 4, 5];
