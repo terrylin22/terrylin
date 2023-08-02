@@ -37,6 +37,7 @@
 echo "111";
 echo "[Foreach 1]" . PHP_EOL;
 echo "2222";
+echo "4444";
 $array = [1, 2, 3, 4, 5];
 foreach ($array as $value) {
     echo $value . PHP_EOL;
