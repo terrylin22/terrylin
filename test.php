@@ -1,12 +1,4 @@
 <?php
-$aa = 1;
-echo $aa.PHP_EOL;
-$aa = 1;
-echo $aa.PHP_EOL;
-$aa = 1;
-echo $aa.PHP_EOL;
-$aa = 1;
-echo $aa.PHP_EOL;
 // $aa = 1;
 // echo $aa.PHP_EOL;
 // for ($x = 0; $x <= 10; $x++) {
